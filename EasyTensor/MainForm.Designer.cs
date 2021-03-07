@@ -126,7 +126,7 @@ namespace EasyTensor
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "MainForm";
-            this.Text = "MainForm";
+            this.Text = "EasyTensor";
             this.tabControl1.ResumeLayout(false);
             this._tabComponent.ResumeLayout(false);
             this.tabControl2.ResumeLayout(false);

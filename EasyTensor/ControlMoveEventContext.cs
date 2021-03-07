@@ -8,7 +8,7 @@ namespace EasyTensor
 {
     public class ControlMoveEventContext
     {
-        private Control _control;
+        private readonly Control _control;
         private Point _mouseStartupPoint;
         private bool _canMoveControl;
 
